@@ -1,5 +1,5 @@
 import { Row, Col, Image } from "antd";
-import Bg from "@/assets/images/page/roadmap.PNG";
+import Bg from "@/assets/images/page/roadmap.png";
 import Back from "@/components/back/Back";
 import "@/assets/styles/page/roadMap.scss";
 
